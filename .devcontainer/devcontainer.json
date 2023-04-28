@@ -1,0 +1,24 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "hostRequirements": {
+      "cpus": 4
+    },
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "bash scripts/install.sh",
+    "postCreateCommand": "",
+    "customizations": {
+      "codespaces": {
+        "openFiles": []
+      },
+      "vscode": {
+        "extensions": [
+          "ms-toolsai.jupyter",
+          "ms-python.python",
+          "REditorSupport.r",
+          "GitHub.copilot",
+          "mathematic.vscode-pdf",
+          "hediet.vscode-drawio"
+        ]
+      }
+    }
+  }
