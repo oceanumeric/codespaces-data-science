@@ -17,7 +17,8 @@
           "REditorSupport.r",
           "GitHub.copilot",
           "mathematic.vscode-pdf",
-          "hediet.vscode-drawio"
+          "hediet.vscode-drawio",
+          "pkief.material-icon-theme"
         ]
       }
     }

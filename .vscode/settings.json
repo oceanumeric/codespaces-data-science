@@ -1,0 +1,8 @@
+// vscode settings for codespace
+
+{
+    // backgound color for editor
+    "workbench.colorCustomizations": {
+        "editor.background": "#1D3029"
+    },
+}
