@@ -28,4 +28,6 @@ install.packages("knitr")
 install.packages("magrittr")
 ```
 
-When it asks you whether you want to install the packages in a personal library, type `y` and press enter.
+When it asks you whether you want to install the packages in a personal library, type `y` and press enter or just press enter.
+
+
