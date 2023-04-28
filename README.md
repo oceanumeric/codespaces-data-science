@@ -34,3 +34,20 @@ install.packages("magrittr")
 When it asks you whether you want to install the packages in a personal library, type `y` and press enter or just press enter.
 
 
+## Install Python packages
+
+Python packages has been installed during the setup of the development environment. 
+
+For packages are installed:
+
+- numpy
+- pandas
+- matplotlib
+- jupyterlab
+
+
+You can install additional packages by running the following command in the terminal.
+
+```bash
+pip install <package-name>
+```
