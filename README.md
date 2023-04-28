@@ -21,6 +21,9 @@ R
 Then in the __R console__:
 
 ```R
+install.packages("languageserver")
+install.packages('IRkernel')
+IRkernel::installspec()
 install.packages("data.table")
 install.packages("dplyr")
 install.packages("ggplot2")
