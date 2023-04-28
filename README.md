@@ -8,4 +8,6 @@ The development environment setup is configured in the `.devcontainer` folder. T
 __Do not change the `.devcontainer`  and `scripts` folder__ unless you know what you are doing. This folder is used by Github Codespaces to setup the development environment.
 
 
+## Install R packages
+
 

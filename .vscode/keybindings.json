@@ -1,0 +1,11 @@
+[
+    {
+        // I use shift and space to run 
+        "key": "shift+space",
+        // only run selection
+        "command": "jupyter.execSelectionInteractive",
+        // run whole file 
+        // "command": "jupyter.runFileInteractive",
+        "when": "editorTextFocus && editorLangId == 'r'"
+    }
+]
