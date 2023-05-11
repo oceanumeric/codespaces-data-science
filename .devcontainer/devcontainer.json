@@ -4,7 +4,7 @@
       "cpus": 4
     },
     "settings" : {
-      "workbench.colorTheme": "Night Owl"
+      "workbench.colorTheme": "Visual Studio Dark"
     },
 
     "extensions": [

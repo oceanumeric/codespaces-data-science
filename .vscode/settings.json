@@ -2,7 +2,5 @@
 
 {
     // backgound color for editor
-    "workbench.colorCustomizations": {
-        "workbench.colorTheme": "Night Owl"
-    },
+    "workbench.colorTheme": "Visual Studio Dark"
 }
