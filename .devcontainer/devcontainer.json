@@ -18,7 +18,8 @@
           "GitHub.copilot",
           "mathematic.vscode-pdf",
           "hediet.vscode-drawio",
-          "pkief.material-icon-theme"
+          "pkief.material-icon-theme",
+          "marp-team.marp-vscode"
         ]
       }
     }

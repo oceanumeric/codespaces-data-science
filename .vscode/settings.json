@@ -3,6 +3,6 @@
 {
     // backgound color for editor
     "workbench.colorCustomizations": {
-        "editor.background": "#1D3029"
+        "workbench.colorTheme": "Night Owl"
     },
 }
