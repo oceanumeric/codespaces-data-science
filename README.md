@@ -12,26 +12,11 @@ __Do not change the `.devcontainer`  and `scripts` folder__ unless you know what
 
 Once you started your codespace, you can install R packages by running the following command in the R console.
 
-First in your __terminal__:
+Open your __terminal__, copy and paste the following command into your terminal and __press Enter__: 
 
 ```bash
-R
-```
-
-Then in the __R console__:
-
-```R
-install.packages("languageserver")
-install.packages('IRkernel')
-IRkernel::installspec()
-install.packages("data.table")
-install.packages("dplyr")
-install.packages("ggplot2")
-install.packages("knitr")
-install.packages("magrittr")
-```
-
-When it asks you whether you want to install the packages in a personal library, type `y` and press enter or just press enter.
+sudo Rscript scripts/install.R
+````
 
 
 ## Install Python packages
