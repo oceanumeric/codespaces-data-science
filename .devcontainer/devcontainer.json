@@ -3,10 +3,6 @@
     "hostRequirements": {
       "cpus": 4
     },
-    "waitFor": "onCreateCommand",
-    "updateContentCommand": "bash scripts/install.sh",
-    "postCreateCommand": "",
-
     "settings" : {
       "workbench.colorTheme": "Night Owl"
     },
@@ -20,6 +16,9 @@
       "hediet.vscode-drawio",
       "pkief.material-icon-theme",
       "marp-team.marp-vscode"
-    ]
+    ],
 
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "bash scripts/install.sh",
+    "postCreateCommand": ""
   }
