@@ -6,21 +6,20 @@
     "waitFor": "onCreateCommand",
     "updateContentCommand": "bash scripts/install.sh",
     "postCreateCommand": "",
-    "customizations": {
-      "codespaces": {
-        "openFiles": []
-      },
-      "vscode": {
-        "extensions": [
-          "ms-toolsai.jupyter",
-          "ms-python.python",
-          "REditorSupport.r",
-          "GitHub.copilot",
-          "mathematic.vscode-pdf",
-          "hediet.vscode-drawio",
-          "pkief.material-icon-theme",
-          "marp-team.marp-vscode"
-        ]
-      }
-    }
+
+    "settings" : {
+      "workbench.colorTheme": "Night Owl"
+    },
+
+    "extensions": [
+      "ms-toolsai.jupyter",
+      "ms-python.python",
+      "REditorSupport.r",
+      "GitHub.copilot",
+      "mathematic.vscode-pdf",
+      "hediet.vscode-drawio",
+      "pkief.material-icon-theme",
+      "marp-team.marp-vscode"
+    ]
+
   }

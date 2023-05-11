@@ -13,5 +13,3 @@ python3 -m pip install matplotlib==3.7.0
 # install jupyter notebook 
 python3 -m pip install jupyterlab
 
-# install R requirements
-sudo Rscript install.R
