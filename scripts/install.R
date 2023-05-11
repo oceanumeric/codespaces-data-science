@@ -1,4 +1,4 @@
-install.packages("data.table")
+
 install.packages("IRkernel")
 IRkernel::installspec()
 install.packages("data.table")
