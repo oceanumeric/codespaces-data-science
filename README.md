@@ -18,6 +18,11 @@ Open your __terminal__, copy and paste the following command into your terminal 
 sudo Rscript scripts/install.R
 ````
 
+## Set up short-cut
+
+
+
+
 
 ## Install Python packages
 
