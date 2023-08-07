@@ -1,4 +1,14 @@
 hello
 #Introduction
 
-This is to help me
+#fread command doesnt work 
+#label
+
+
+
+
+
+
+
+
+
